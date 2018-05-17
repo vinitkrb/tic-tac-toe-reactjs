@@ -23,7 +23,8 @@ class Board extends React.Component {
 
     render() {
         return (
-            <div>
+            <div style={{paddingLeft:38 +'em'}}>
+            <h1>TIC-TAC-TOE</h1>
                 <div className="board-row">
                     {this.renderSquare(0)}
                     {this.renderSquare(1)}

@@ -1,10 +1,12 @@
 body {
     font: 14px "Century Gothic", Futura, sans-serif;
     margin: 20px;
+    background-color:yellowgreen;
+    text-align:center;
   }
   
   ol, ul {
-    padding-left: 30px;
+    padding-left: 40px;
   }
   
   .board-row:after {
